@@ -9,8 +9,8 @@ It is designed for students and casual listeners who want a **private, low-resou
 # 📸 Project Preview
 
 <p align="center">
-  <img src="images/Project Display-1.png" width="45%" />
-  <img src="images/Project Display-2.png" width="45%" />
+  <img src="Images/Project Display-1.png" width="45%" />
+  <img src="Images/Project Display-2.png" width="45%" />
 </p>
 
 ---
