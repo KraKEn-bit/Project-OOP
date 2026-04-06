@@ -210,39 +210,8 @@ Raed Rahman | 230041115 | UI, Interaction & Documentation Lead
 
 ---
 
-#  Installation:
 
-### Clone Repository
 
-```bash
-git clone https://github.com/KraKEn-bit/Project-OOP.git
-cd Project-OOP
-```
-
-### Build (CMake)
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-```
-
----
-
-# 📂 Data Setup
-
-Place song metadata inside:
-
-```
-data/
-```
-
-Supported format:
-- CSV file  
-- Folder scan (planned)
-
----
 
 # **Course Information:**
 
