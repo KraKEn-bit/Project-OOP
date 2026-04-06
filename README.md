@@ -15,16 +15,16 @@ It is designed for students and casual listeners who want a **private, low-resou
 
 ---
 
-# 🚀 Features
+# **Features:**
 
 ## Core Functionalities (MVP)
 
-### 🎧 Local Metadata Management
+### Local Metadata Management
 - Load song data from folder scans or CSV files  
 - Manage local music collection  
 - Lightweight offline storage  
 
-### 🎼 Playlist Control
+### Playlist Control
 - Create playlists  
 - Edit playlists  
 - Delete playlists  
@@ -42,7 +42,7 @@ It is designed for students and casual listeners who want a **private, low-resou
 - Maintain play count  
 - Preference learning  
 
-### 💾 Persistent Storage
+### Persistent Storage
 - Save user preferences  
 - Save playlists  
 - Store ratings  
@@ -50,7 +50,7 @@ It is designed for students and casual listeners who want a **private, low-resou
 
 ---
 
-# 🧠 Hybrid Recommendation Engine
+# Hybrid Recommendation Engine
 
 ### Offline Recommendation
 Content-based filtering using:
@@ -67,7 +67,7 @@ YouTube-style recommendation based on:
 
 ---
 
-# 🏗️ System Architecture
+# **System Architecture**
 
 The project follows **Object-Oriented Modular Design**
 
@@ -104,7 +104,7 @@ The project follows **Object-Oriented Modular Design**
 
 ---
 
-# 👥 Team Members  
+# **Team Members**  
 ### Marks Oriented Programming - 1A
 
 | Name | ID | Role |
@@ -116,7 +116,7 @@ Raed Rahman | 230041115 | UI, Interaction & Documentation Lead
 
 ---
 
-# 🛠️ Installation
+#  Installation:
 
 ### Clone Repository
 
@@ -150,30 +150,12 @@ Supported format:
 
 ---
 
-# 🧩 Planned Extensions
-
-- GUI improvements (Qt / SFML)  
-- Real audio playback (SDL2 / PortAudio)  
-- Collaborative filtering  
-- Smart recommendation engine  
-- Search optimization  
-
----
-
 # 📘 Course Information
 
 **Course:** CSE 4302 – Object Oriented Programming Lab  
 **Institution:** Islamic University of Technology (IUT)  
 **Course Teachers:** Faisal Hussain, Farzana Tabassum  
-**Submission Date:** 08-12-2025  
-
 ---
 
-# ⭐ Project Goal
-
-PocketTrack provides:
-
-- Offline music management  
-- Lightweight performance  
 - Personalized recommendation  
 - Privacy-focused listening  
