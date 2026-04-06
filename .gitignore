@@ -1,0 +1,12 @@
+# IDE settings
+.qtcreator/
+*.user
+
+# Build artifacts
+build/
+*.o
+*.obj
+
+# OS generated files
+.DS_Store
+Thumbs.db

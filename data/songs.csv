@@ -1,0 +1,52 @@
+id,title,artist,album,duration,genre,mood,rating,playcount,filepath,favorite
+500,Ocean Dreams,Blue Fiction,Vol. 1,313,indie,calm,5,0,audio/song500.mp3,true
+499,Neon Hearts,The Storm,Night Drive,136,rock,romantic,4,0,audio/song499.mp3,false
+498,Electric Sky,Neon Riders,Night Drive,244,jazz,happy,5,0,audio/song498.mp3,false
+497,青のすみか,LiSA,青い炎,349,pop,dramatic,5,12,audio/song497.mp3,true
+496,Neon Shadows,MC Echo,Single,154,lofi,chill,3,0,audio/song496.mp3,false
+495,風吹けば恋,YOASOBI,ベスト,174,anime,sad,5,8,audio/song495.mp3,true
+494,Ocean Lights,The Theory,Vol. 1,130,rock,focus,4,0,audio/song494.mp3,false
+493,Golden Hearts,Young Nova,Single,261,jazz,energetic,4,0,audio/song493.mp3,false
+492,Golden Lights,MC Hearts,Vol. 1,395,lofi,dramatic,3,0,audio/song492.mp3,false
+491,Electric City,Young Lights,Single,411,indie,calm,4,0,audio/song491.mp3,false
+490,Silver Fire,King Nova,Single,286,jazz,sad,5,0,audio/song490.mp3,true
+489,Silver Fire,Silent Echo,Greatest Hits,282,alt,focus,4,0,audio/song489.mp3,false
+488,Gravity Sky,Blue Nova,Reflections,133,anime,happy,4,0,audio/song488.mp3,false
+487,Ocean Lights,The Hearts,Reflections,240,pop,calm,3,0,audio/song487.mp3,false
+486,Wild Hearts,Blue Waves,Greatest Hits,365,alt,calm,4,0,audio/song486.mp3,false
+485,夜に駆ける,LiSA,ベスト,326,jazz,epic,5,15,audio/song485.mp3,true
+484,白日,Official髭男dism,シングル,318,jpop,happy,5,10,audio/song484.mp3,true
+483,Crimson Lights,Queen Waves,Vol. 1,321,jazz,epic,4,0,audio/song483.mp3,false
+482,Gravity Hearts,MC Nova,Vol. 2,275,alt,sad,3,0,audio/song482.mp3,false
+481,Gravity Run,Queen Lights,Reflections,167,jazz,energetic,4,0,audio/song481.mp3,false
+480,Golden Dreams,Young Riders,Reflections,298,jpop,calm,4,0,audio/song480.mp3,false
+479,キラキラ,Official髭男dism,シングル,290,indie,happy,4,0,audio/song479.mp3,false
+478,Neon Sky,Neon Nova,Vol. 2,170,pop,romantic,3,0,audio/song478.mp3,false
+477,夜に駆ける,宇多田ヒカル,物語,341,alt,happy,5,7,audio/song477.mp3,true
+476,Ocean Dreams,Saint Theory,Reflections,391,indie,energetic,3,0,audio/song476.mp3,false
+475,Ocean Rain,The Echo,Reflections,255,lofi,focus,4,0,audio/song475.mp3,false
+474,青のすみか,YOASOBI,シングル,343,lofi,happy,4,0,audio/song474.mp3,false
+473,炎,宇多田ヒカル,物語,299,indie,calm,5,9,audio/song473.mp3,true
+472,Velvet Lights,The Theory,Reflections,294,indie,focus,4,0,audio/song472.mp3,false
+471,Ocean Fire,The Echo,Reflections,362,alt,focus,4,0,audio/song471.mp3,false
+470,Velvet Shadows,MC Waves,Vol. 2,170,indie,dramatic,3,0,audio/song470.mp3,false
+469,Midnight Rain,MC Hearts,Reflections,126,pop,epic,4,0,audio/song469.mp3,false
+468,白日,米津玄師,心の音,402,jazz,epic,5,11,audio/song468.mp3,true
+467,キラキラ,米津玄師,青い炎,124,alt,epic,4,1,audio/song467.mp3,false
+466,Midnight Dreams,Neon Theory,Reflections,307,rock,focus,4,0,audio/song466.mp3,false
+465,未来へ,YOASOBI,物語,327,edm,epic,5,6,audio/song465.mp3,true
+464,Crimson Sky,Queen Storm,Night Drive,262,jazz,sad,4,0,audio/song464.mp3,false
+463,Silver Motion,MC Pulse,Vol. 2,285,anime,sad,3,0,audio/song463.mp3,false
+462,残響散歌,Aimer,青い炎,377,jazz,dramatic,5,8,audio/song462.mp3,true
+461,Gravity Shadows,DJ Riders,Night Drive,413,lofi,focus,4,0,audio/song461.mp3,false
+460,Velvet Fire,MC Echo,Night Drive,191,alt,romantic,4,0,audio/song460.mp3,false
+459,未来へ,Official髭男dism,ベスト,342,jpop,romantic,4,0,audio/song459.mp3,false
+458,白日,宇多田ヒカル,夜空,379,pop,sad,5,5,audio/song458.mp3,true
+457,Crimson Motion,Silent Echo,Greatest Hits,223,anime,calm,3,0,audio/song457.mp3,false
+456,Crimson City,Saint Storm,Vol. 2,129,anime,epic,4,0,audio/song456.mp3,false
+455,Silver Dreams,Silent Waves,Greatest Hits,408,jpop,calm,3,0,audio/song455.mp3,false
+454,Ocean Lights,DJ Hearts,Greatest Hits,249,anime,dramatic,4,0,audio/song454.mp3,false
+453,Velvet Fire,Young Waves,Greatest Hits,409,rock,dramatic,4,0,audio/song453.mp3,false
+452,未来へ,米津玄師,夜空,282,indie,chill,4,0,audio/song452.mp3,false
+451,Midnight Run,Young Riders,Vol. 1,180,lofi,epic,3,0,audio/song451.mp3,false
+450,Crimson Shadows,Neon Nova,Greatest Hits,374,pop,happy,4,0,audio/song450.mp3,false

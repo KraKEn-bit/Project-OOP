@@ -1,0 +1,27 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <!-- Application Icons -->
+        <file>icons/app.ico</file>
+        <file>icons/play.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/next.png</file>
+        <file>icons/previous.png</file>
+        <file>icons/shuffle.png</file>
+        <file>icons/repeat.png</file>
+        <file>icons/heart.png</file>
+        <file>icons/heart-filled.png</file>
+        <file>icons/star-empty.png</file>
+        <file>icons/star-filled.png</file>
+        <file>icons/music-note.png</file>
+        <file>icons/playlist.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/search.png</file>
+        <file>icons/volume-high.png</file>
+        <file>icons/volume-low.png</file>
+        <file>icons/volume-mute.png</file>
+        
+        <!-- Fonts (optional) -->
+        <file>fonts/Roboto-Regular.ttf</file>
+    </qresource>
+</RCC>
