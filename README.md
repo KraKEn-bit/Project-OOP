@@ -172,19 +172,6 @@ Qt Creator will:
 - CMake 3.16+  
 - Desktop Qt Kit  
 
----
-
-## Project Structure
-
-```
-PocketTrack
-│
-├── CMakeLists.txt
-├── src/
-├── include/
-├── data/
-└── assets/
-```
 
 ---
 
