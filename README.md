@@ -104,6 +104,100 @@ The project follows **Object-Oriented Modular Design**
 
 ---
 
+# **Running with Qt Creator (Recommended):**
+
+PocketTrack uses **Qt Creator + CMake** for building and running the project.
+
+## Step 1: Install Qt Creator
+
+Download Qt Creator from:
+https://www.qt.io/download
+
+During installation make sure you select:
+
+- Qt Creator
+- Desktop Qt (MinGW or MSVC)
+- CMake
+- Ninja (optional but recommended)
+
+---
+
+## Step 2: Clone the Repository
+
+```bash
+git clone https://github.com/KraKEn-bit/Project-OOP.git
+cd Project-OOP
+```
+
+---
+
+## Step 3: Open Project in Qt Creator
+
+1. Open **Qt Creator**
+2. Click **Open Project**
+3. Select `CMakeLists.txt`
+4. Choose Desktop Kit (MinGW / MSVC)
+5. Click **Configure Project**
+
+Qt Creator will automatically run:
+
+- CMake configure  
+- Build setup  
+- Compiler detection  
+
+---
+
+## Step 4: Build & Run
+
+Click:
+
+▶ Run button (bottom left)
+
+OR
+
+Ctrl + R
+
+Qt Creator will:
+
+- Build project  
+- Run executable  
+- Launch PocketTrack UI  
+
+---
+
+## Build Requirements
+
+- C++17 compatible compiler  
+- Qt Creator 8+  
+- CMake 3.16+  
+- Desktop Qt Kit  
+
+---
+
+## Project Structure
+
+```
+PocketTrack
+│
+├── CMakeLists.txt
+├── src/
+├── include/
+├── data/
+└── assets/
+```
+
+---
+
+## Notes
+
+- Make sure `CMakeLists.txt` is in the root directory  
+- If build fails → Run **Build → Run CMake** again  
+- If compiler not detected → Configure Kits in Qt Creator  
+
+
+
+---
+
 # **Team Members**  
 ### Marks Oriented Programming - 1A
 
@@ -150,7 +244,7 @@ Supported format:
 
 ---
 
-# 📘 Course Information
+# **Course Information:**
 
 **Course:** CSE 4302 – Object Oriented Programming Lab  
 **Institution:** Islamic University of Technology (IUT)  
